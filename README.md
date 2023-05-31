@@ -58,10 +58,6 @@
 - **Setup React App**
 - ** Implemente static React Calculator**
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-You can find a live demo in [HERE](https://lordksix.github.io/math-magic/).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -117,11 +113,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ```sh
-  npm run lint
-```
-This will check Linter error and quick fix when possible to fix.
-
-```sh
   npm run build
 ```
 
@@ -156,20 +147,11 @@ Launches the test runner in the interactive watch mode.
   npm test
 ```
 
-### Deployment
-
-This project is deployed using [GitHub Pages](https://pages.github.com/). 
-
-Go to [🚀 Live Demo](#live-demo) to check it out.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author**
 
-- GitHub: [@lordksix](https://github.com/lordksix)
-- Twitter: [@wapasquel](https://github.com/lordksix)
+- GitHub: [@tjay1760](https://github.com/tjay1760)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
