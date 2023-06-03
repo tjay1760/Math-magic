@@ -37,9 +37,12 @@ const Quote = () => {
   } else if (quoteData.quote && quoteData.author) {
     quoteContent = (
       <div>
-        <p>{quoteData.quote}</p>
         <p>
-          <span>Author: </span>
+          &apos;
+          {quoteData.quote}
+          &apos;
+        </p>
+        <p>
           {quoteData.author}
         </p>
       </div>
