@@ -152,6 +152,7 @@ Launches the test runner in the interactive watch mode.
 👤 **Author**
 
 - GitHub: [@tjay1760](https://github.com/tjay1760)
+- Github: [@Nahid1911](https://github.com/Nahid1911)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
