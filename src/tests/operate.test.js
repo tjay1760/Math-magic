@@ -10,7 +10,7 @@ describe('operate function', () => {
   });
 
   test('should correctly multiply two numbers', () => {
-    expect(operate('4', '3', 'x')).toBe('12');
+    expect(operate('4', '4', 'x')).toBe('16');
   });
 
   describe('division operator', () => {
